@@ -1,0 +1,7 @@
+-------------------------------------------
+--- Tensorflow Install Sequence ------------
+--------------------------------------------
+(pip)  pip install tensorflow
+(conda)C:\Users\Dunschm>conda create -n tensorflow python=3.6.6
+(conda)C:\Users\Dunschm>activate tensorflow
+(tensorflow) C:\Users\Dunschm>conda install -c conda-forge tensorflow
